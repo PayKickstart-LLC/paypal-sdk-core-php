@@ -1,6 +1,6 @@
 {
     "name": "paykickstart-llc/paypal-sdk-core-php",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "PayPal Core SDK for PHP",
     "keywords": ["paypal", "php", "sdk"],
     "type": "library",
